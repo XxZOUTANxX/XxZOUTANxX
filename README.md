@@ -7,4 +7,4 @@
 - 😄 Pronomes: ele/delas
 - ⚡ Sobre: Criador de jogos talvez, Designer é óbvio, assitir anime? é claro
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxZOUTANxX)](https://github.com/XxZOUTANxX/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxZOUTANxX&show_icons=true&theme=dark))](https://github.com/XxZOUTANxX/github-readme-stats)
