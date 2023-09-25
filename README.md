@@ -9,3 +9,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxZOUTANxX&show_icons=true&theme=dark))](https://github.com/XxZOUTANxX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxZOUTANxX&langs_count=5&theme=dark)](https://github.com/XxZOUTANxX/github-readme-stats)
+<body>
+  
+            <i class="devicon-lua-plain-wordmark colored"></i>
+          
+  <div>
+    
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  </div>
+</body>
